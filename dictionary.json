@@ -1,0 +1,8 @@
+[
+	[
+		"use std::console", "console.writeLine(", "var "
+	],
+	[
+		"const console = require(\"console\");", "console.log(", "var "
+	]
+]

@@ -1,0 +1,2 @@
+type client;
+use workflows::{blender, webrender};

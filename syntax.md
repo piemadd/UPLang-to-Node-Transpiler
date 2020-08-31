@@ -1,0 +1,3 @@
+# UPLang
+## Info:
+The goal of this language is to make a Node-like scripting language designed to create easily scalable web and offline applications. The advantages of UPLang allow for very small, but repeated, operations to be done extremely quickly as the language can easily be scaled horizontally, unlike many others which require manual work to do so. Read the scaling section to learn more about how scaling is dealt with.
